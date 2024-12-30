@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shweta-V-Mahadik
 - 👀 I’m interested in Coding
-- 🌱 I’m currently pursuing my Btech in CSE
+- 🌱 I’m currently pursuing my Btech in CSE.
 
 
 <!---
